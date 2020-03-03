@@ -1,0 +1,3 @@
+In Python you can print
+In Python you can input
+In Python you can recycle
